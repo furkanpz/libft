@@ -47,9 +47,9 @@ isalpha		| ft_putchar_fd	|
 isdigit		| ft_putstr_fd	|
 isalnum		| ft_putendl_fd	|
 isascii		| ft_putnbr_fd	|
-isprint		| ft_isprint |
-toupper		| ft_toupper |
-tolower		| ft_tolower |
+isprint		|
+toupper		|
+tolower		|
 
 
 Notes:
